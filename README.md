@@ -70,7 +70,5 @@ Have a suggestion? Found a bug? Open an issue or submit a pull request!
 Made with ❤️ in Python
 ---
 
-Let me know if your script includes extra features (e.g., real-time sorting with watchdog, GUI with Tkinter, or tray notifications), and I can extend the README for that too.
 
-   
 	
